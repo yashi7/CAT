@@ -1,0 +1,64 @@
+a{
+    text-decoration: none;
+}
+
+.google{
+    text-align: center;
+    font-size: 7rem;
+    margin-bottom: 1.5%;
+    /* margin-top: 3%; */
+}
+
+
+
+.signin{
+    text-align: center;
+    font-size: 1.4rem;
+    font-family: sans-serif;
+    color: gray;
+}
+
+form{
+    width: 20%;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+.input{
+    display: block;
+    padding: 0.8rem 1rem;
+    width: 80%;
+    margin: auto;
+}
+
+.btn{
+    width: 89%;
+    background-color: #4285F4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    margin: 3% 5%;
+}
+
+.block{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    font-family: sans-serif;
+    margin-bottom: 3%;
+}
+
+.checkbox{
+    float: left;
+}
+
+.help{
+    float: right;
+}
+
+.create{
+    text-align: center;
+    font-family: sans-serif;
+}
